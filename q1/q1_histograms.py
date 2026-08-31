@@ -4,7 +4,7 @@ import re
 import ast
 
 
-df = pd.read_csv("histooo.csv")
+df = pd.read_csv("q1_histogram_boundaries.csv")
 
 # attribute = "id"
 # numeric = True
