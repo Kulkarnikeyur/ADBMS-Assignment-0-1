@@ -2,7 +2,7 @@
 
 This repository contains the code, data, and generated plots for **Assignment 0** (environment/database setup) and **Assignment 1** (PostgreSQL histogram analysis) for the Advanced Database Management Systems (ADBMS) course, using the **Join Order Benchmark (JOB, 2013 snapshot)** dataset loaded into PostgreSQL.
 
-The full write-up, methodology, and results are in [`adbms_ass1.pdf`](./adbms_ass1.pdf).
+The full write-up, methodology, and results are in [`Assignment0-1`](./Assignment0-1_BT2024025.pdf).
 
 ## Overview
 
@@ -104,5 +104,5 @@ pip install pandas numpy matplotlib
 
 ## Notes
 
-- File and variable names in the scripts (e.g., `histooo.csv`, hard-coded sample-size arrays) reflect the exact scripts used to produce the report's figures; update paths/values as needed if you rerun the pipeline with different exports.
+- File and variable names in the scripts (e.g., `histogram_boundaries.csv`, hard-coded sample-size arrays) reflect the exact scripts used to produce the report's figures; update paths/values as needed if you rerun the pipeline with different exports.
 - `q1/fghj` is an empty leftover file with no content and can be ignored/removed.
